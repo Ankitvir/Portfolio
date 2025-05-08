@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        // third: "I develop mobile apps",
+        third: "I develop mobile apps",
     },
     description: "Hi, I'm Ankit Giri. I build things for the web. Clean code. Modern design. Real results.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
