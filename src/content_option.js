@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "Ankit";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ankit Giri",
+    description: "I’m Ankit giri data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ankit giri",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        // third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Hi, I'm Ankit Giri. I build things for the web. Clean code. Modern design. Real results.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -74,13 +74,13 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Movie portal wepage, by intigrating API.",
+        link: "https://github.com/Ankitvir/MOVIE-PORTAL",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Bank Statement Analyzer.",
+        link: "https://github.com/Ankitvir/Bank-Statement-Analyzer",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
